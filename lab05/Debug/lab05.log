@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(132): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(134): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(163): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(165): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(170): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(171): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Desktop\lab05\lab05\Main.cpp(173): warning C4018: '<': signed/unsigned mismatch
+  lab05.vcxproj -> C:\Users\matth\Desktop\lab05\lab05\Debug\lab05.exe
