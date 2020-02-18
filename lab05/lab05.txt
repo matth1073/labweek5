@@ -1,0 +1,43 @@
+Recommend using vectors over arrays
+
+Your choice if you want to use a header and corresponding cpp file for functions
+
+Don't need any type of menu, program should continuosly run until user enters 'Q' or 'q'
+
+When adding/multiplying may be easier to first create a matrix
+that will be the correct size and contain 0 at each position 
+
+adding can be done with a nested for loop 
+for
+	for
+	
+multiplication can be done with a nested for loop inside a nested for loop
+for 
+	for
+		for
+
+
+3 checks for adding
+-size() cant be NULL or zero
+-number of rows must match
+-number of cols must match
+
+2 checks for multiplying
+-size() cant be NULL or zero
+-number of matrix A columns must equal number of matrix B rows 
+
+e.g 	(2x2) x (2x3)
+This is valid multiplication
+	  
+	(2x3) x (2x2)
+This is invalid multiplication 
+	  
+(2X3) x (3x2) would create a (2x2) 
+(3x2) x (2x3) would create a (3x3)  
+	  
+error handling: 
+can assume valid input for all integer inputs
+
+program should only do VALID multiplication and additions, inform user if they cannot add or multiply because of size, program should not crash
+
+user may press any key to run program again 
